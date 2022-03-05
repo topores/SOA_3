@@ -1,0 +1,16 @@
+dto\LocationDto.class
+exception\UnsupportedFilterOperation.class
+paging\Sort$Direction.class
+dto\CountDto.class
+exception\FilterIsNotSupportedException.class
+paging\Page.class
+paging\Filter.class
+dto\PersonDto.class
+paging\Filter$1.class
+dto\CountDto$CountDtoBuilder.class
+dto\CoordinatesDto.class
+paging\Pageable.class
+paging\Filter$FilterSign.class
+dto\MovieDto.class
+paging\Sort.class
+remote\RemoteClientService.class

@@ -1,0 +1,12 @@
+G:\CODE\SOA_2-BE-main\soa_2-parent\soa_2-common\src\main\java\dto\MovieDto.java
+G:\CODE\SOA_2-BE-main\soa_2-parent\soa_2-common\src\main\java\paging\Pageable.java
+G:\CODE\SOA_2-BE-main\soa_2-parent\soa_2-common\src\main\java\remote\RemoteClientService.java
+G:\CODE\SOA_2-BE-main\soa_2-parent\soa_2-common\src\main\java\dto\PersonDto.java
+G:\CODE\SOA_2-BE-main\soa_2-parent\soa_2-common\src\main\java\exception\UnsupportedFilterOperation.java
+G:\CODE\SOA_2-BE-main\soa_2-parent\soa_2-common\src\main\java\dto\CountDto.java
+G:\CODE\SOA_2-BE-main\soa_2-parent\soa_2-common\src\main\java\dto\LocationDto.java
+G:\CODE\SOA_2-BE-main\soa_2-parent\soa_2-common\src\main\java\exception\FilterIsNotSupportedException.java
+G:\CODE\SOA_2-BE-main\soa_2-parent\soa_2-common\src\main\java\paging\Page.java
+G:\CODE\SOA_2-BE-main\soa_2-parent\soa_2-common\src\main\java\paging\Sort.java
+G:\CODE\SOA_2-BE-main\soa_2-parent\soa_2-common\src\main\java\dto\CoordinatesDto.java
+G:\CODE\SOA_2-BE-main\soa_2-parent\soa_2-common\src\main\java\paging\Filter.java
